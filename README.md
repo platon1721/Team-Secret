@@ -17,7 +17,7 @@
 	<meta charset="utf-8">
 </head>
 <body>
-	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fteamsecret.gg%2Fblogs%2Fdota-2%2Fteam-secret-autumn-announcement-fond-farewells-and-warm-welcomes&psig=AOvVaw2Q-9gCnX0g8AHADYOixL1a&ust=1634235593337000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDN3pOAyPMCFQAAAAAdAAAAABAD" alt="Team Secret"
+	<img src="https://cdn.shopify.com/s/files/1/0077/8027/0133/files/news_dpc2020_full.png?v=1596675254" alt="Team Secret"
 	style="float:right;width: 151;height: 150 ">
 	<h1>Team Secret</h1>
 	<p>Team Secret is a European professional Dota 2 team.</p>
